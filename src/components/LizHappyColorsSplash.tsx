@@ -13,7 +13,7 @@ export function LizHappyColorsSplash() {
                 muted
                 playsInline
             >
-                <source src="/media/liz-happy-colors-hero.mp4" type="video/mp4" />
+                <source src="/Liz-Happy-Colors-/media/liz-happy-colors-hero.mp4" type="video/mp4" />
                 {/* Fallback text */}
                 Your browser does not support the video tag.
             </video>
